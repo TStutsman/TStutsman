@@ -1,4 +1,5 @@
 <div id='header' align='center'>
+  <h1>hey there 👋</h1>
   <a href="https://www.linkedin.com/in/tstutsman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin" />
   </a>
