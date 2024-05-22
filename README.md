@@ -43,6 +43,9 @@
   Talk to me about my pour-over setup, anime (Jujutsu Kaisen, AOT, Frieren, Demon Slayer, Mob Psycho), or where I want to travel next!
   
   Looking to join a team where my coworkers are passionate, energetic, and challenge me to continue to learn. If that sounds like you, please reach out!
+
+  Here's a link to my portfolio:
+  https://www.teagandstutsman.me
   
   You can also reach me at:
   teagandstutsman@gmail.com
