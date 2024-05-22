@@ -1,5 +1,5 @@
 <div id='header' align='center'>
-  <h1>hey there 👋</h1>
+  <h1>hey there 👋 I'm Teagan</h1>
   <a href="https://www.linkedin.com/in/tstutsman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin" />
   </a>
@@ -25,6 +25,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+</div>
+
+<div>
+  <h2> About Me </h2>
+  <p>
+    Make it feel like magic
+
+  When I was young I dreamed about magic. About learning to bend water like Katara, or use the force like Darth Vader, or even build my own Iron Man suit. That enchanted boy still lives on through me today, creating software experiences that feel like magic. Why did I want to be a software engineer? Because there is nothing more mysterious, more mystical, more exhilarating than building incredible applications as I adventure on through life!
+  
+  How I work:
+  - I bring a relaxed, no-problem attitude with the drive/determination to produce my best work every time. 
+  - I’m passionate about (even obsessed with) my code, and I’m gonna try to have fun along the way.
+  - I'm born curious, and love to discover new ways of doing things
+  - Humor is oxygen for me, and I look for ways to inspire and laugh with my teammates
+  
+  Talk to me about my pour-over setup, anime (Jujutsu Kaisen, AOT, Frieren, Demon Slayer, Mob Psycho), or where I want to travel next!
+  
+  Looking to join a team where my coworkers are passionate, energetic, and challenge me to continue to learn. If that sounds like you, please reach out!
+  
+  You can also reach me at:
+  teagandstutsman@gmail.com
+  </p>
 </div>
 
 <!--
