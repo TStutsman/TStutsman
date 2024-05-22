@@ -34,14 +34,16 @@
 
   When I was young I dreamed about magic. About learning to bend water like Katara, or use the force like Darth Vader, or even build my own Iron Man suit. That enchanted boy still lives on through me today, creating software experiences that feel like magic. Why did I want to be a software engineer? Because there is nothing more mysterious, more mystical, more exhilarating than building incredible applications as I adventure on through life!
   
-  How I work:
+  <strong>How I work:</strong>
   - I bring a relaxed, no-problem attitude with the drive/determination to produce my best work every time. 
   - I’m passionate about (even obsessed with) my code, and I’m gonna try to have fun along the way.
   - I'm born curious, and love to discover new ways of doing things
   - Humor is oxygen for me, and I look for ways to inspire and laugh with my teammates
-  
+
+  <strong>My Hobbies!</strong>
   Talk to me about my pour-over setup, anime (Jujutsu Kaisen, AOT, Frieren, Demon Slayer, Mob Psycho), or where I want to travel next!
-  
+
+  <strong>What am I looking for?</strong>
   Looking to join a team where my coworkers are passionate, energetic, and challenge me to continue to learn. If that sounds like you, please reach out!
 
   Here's a link to my portfolio:
