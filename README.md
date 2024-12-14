@@ -30,18 +30,20 @@
 <div>
   <h2> About Me </h2>
   <p>
-    Make it feel like magic
+    Refactoring more than just repos
+  
+    Software Engineering is hard. For me, pursuing a CS degree at Purdue was the first time I'd ever struggled in school. I had no focus, no self control, and no idea what I wanted to do with my degree, let alone my life. It's been 6 years since I switched majors to study computer graphics instead, and while I am extremely grateful for the lessons I learned at Purdue Polytechnic, I'm not satisfied with how I left my CS career. 
 
-  When I was young I dreamed about magic. About learning to bend water like Katara, or use the force like Darth Vader, or even build my own Iron Man suit. That enchanted boy still lives on through me today, creating software experiences that feel like magic. Why did I want to be a software engineer? Because there is nothing more mysterious, more mystical, more exhilarating than building incredible applications as I adventure on through life!
+This past two years, I've completed two different software engineering programs, clocking in over 9 months of training, and well over a year of dedicated effort to becoming a better software engineer. It's been a long journey, and I'll always be learning, but I'm finally building things I love, and enjoying the process. I'd love to talk about how passionate I am about programming now.
+
   
   <strong>How I work:</strong>
-  - I bring a relaxed, can-do attitude with the drive/determination to produce my best work every time. 
-  - I’m passionate about (even obsessed with) my code, and I strive to enjoy the process and have fun along the way.
+  - I bring a relaxed, can-do attitude with the drive/determination to produce my best work every time.
   - Born curious, I love discovering new ways of doing things
   - Humor is oxygen for me; I look for ways to inspire and laugh with my teammates
 
   <strong>My Hobbies!</strong><br/>
-  Talk to me about my pour-over setup, anime (Jujutsu Kaisen, AOT, Frieren, Demon Slayer, Mob Psycho), or where I want to travel next!
+  Talk to me about my pour-over setup, anime, or learning Japanese!
 
   <strong>What am I looking for?</strong><br/>
   Looking to join a team where my coworkers are passionate, energetic, and challenge me to continue to learn. If that sounds like you, please reach out!
