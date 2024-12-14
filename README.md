@@ -30,9 +30,9 @@
 <div>
   <h2> About Me </h2>
   <p>
-    Refactoring more than just repos
+Refactoring more than just repos
   
-    Software Engineering is hard. For me, pursuing a CS degree at Purdue was the first time I'd ever struggled in school. I had no focus, no self control, and no idea what I wanted to do with my degree, let alone my life. It's been 6 years since I switched majors to study computer graphics instead, and while I am extremely grateful for the lessons I learned at Purdue Polytechnic, I'm not satisfied with how I left my CS career. 
+Software Engineering is hard. For me, pursuing a CS degree at Purdue was the first time I'd ever struggled in school. I had no focus, no self control, and no idea what I wanted to do with my degree, let alone my life. It's been 6 years since I switched majors to study computer graphics instead, and while I am extremely grateful for the lessons I learned at Purdue Polytechnic, I'm not satisfied with how I left my CS career. 
 
 This past two years, I've completed two different software engineering programs, clocking in over 9 months of training, and well over a year of dedicated effort to becoming a better software engineer. It's been a long journey, and I'll always be learning, but I'm finally building things I love, and enjoying the process. I'd love to talk about how passionate I am about programming now.
 
